@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ADB Andy Android</string>
+    <string name="led1">LED #1</string>
+    <string name="led2">LED #2</string>
+    <string name="out_high">ON</string>
+    <string name="out_low">OFF</string>
+    <string name="pan">Pan</string>
+    <string name="tilt">Tilt</string>
+
+</resources>
